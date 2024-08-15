@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **arixstoo/arixstoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,20 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🏄‍♂️ arixstoo !
+# Hi there 👋 it's arixstoo !
 
 **'Graphic and UI/UX Designer, Beginner MERN Full Stack Developer**
 
-I'm SAIDI Mohamed Rostom, 3rd year computer science student at USTHB (University of Sciences and Technologies Houari Boumediene), Graphic and UI/UX designer. A beginner MERN full stack developer, I am continuously expanding my skills and knowledge in both front-end and back-end technologies. My passion for technology matches my enthusiasm for business, management, and marketing, where I aim to blend technical expertise with strategic thinking. Additionally, I am interested in artificial intelligence and its applications across various industries.
-
-   <p align="left">
-      <a href="https://github.com/aristoo?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/arixstoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/arixstoo?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/arixstoo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
+I'm arixstoo, 3rd year computer science student at USTHB (University of Sciences and Technologies Houari Boumediene), Graphic and UI/UX designer. A beginner MERN full stack developer, I am continuously expanding my skills and knowledge in both front-end and back-end technologies. My passion for technology matches my enthusiasm for business, management, and marketing, where I aim to blend technical expertise with strategic thinking. Additionally, I am interested in artificial intelligence and its applications across various industries.
 
 ### 🧰 Languages and Tools
 
@@ -56,7 +47,25 @@ I'm SAIDI Mohamed Rostom, 3rd year computer science student at USTHB (University
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
+<h3 align="center">📊 GitHub Statss:</h3>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isif00&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isif00&theme=nightowl">
+</div>
+
 #
 
+### 📊 How to reach me?
+
 [website]: Coming soon !
+[email]: saidi.rostom26@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/saidi-mohamed-rostom-21b3b525a/
+
+<div align="center">
+    <h3>Connect with me:</h3>
+    <p>
+        <a href="https://twitter.com/sifodz18" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sifodz18" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/salmi-sifeddine-553607251/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmi-sifeddine-553607251/" height="30" width="40" /></a>
+        <a href="https://instagram.com/sifo._.dz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sifo._.dz" height="30" width="40" /></a>
+    </p>
+</div>
