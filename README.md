@@ -49,8 +49,8 @@ I'm arixstoo, 3rd year computer science student at USTHB (University of Sciences
 
 <h3 align="center">📊 GitHub Statss:</h3>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isif00&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isif00&theme=nightowl">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arixstoo&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arixstoo&theme=nightowl">
 </div>
 
 #
