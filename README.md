@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 it's arixstoo !
 
-**'Graphic and UI/UX Designer, Beginner MERN Full Stack Developer**
+**'Graphic and UI/UX Designer, Beginner MERN Full Stack Developer'**
 
 I'm arixstoo, 3rd year computer science student at USTHB (University of Sciences and Technologies Houari Boumediene), Graphic and UI/UX designer. A beginner MERN full stack developer, I am continuously expanding my skills and knowledge in both front-end and back-end technologies. My passion for technology matches my enthusiasm for business, management, and marketing, where I aim to blend technical expertise with strategic thinking. Additionally, I am interested in artificial intelligence and its applications across various industries.
+
+##
 
 ### 🧰 Languages and Tools
 
@@ -42,30 +44,29 @@ I'm arixstoo, 3rd year computer science student at USTHB (University of Sciences
 #
 
 ### 📊 Stats
-
-![arixstoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arixstoo&show_icons=true&theme=gruvbox)
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-<h3 align="center">📊 GitHub Statss:</h3>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arixstoo&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arixstoo&theme=nightowl">
+    
+![arixstoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arixstoo&show_icons=true&theme=transparent) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arixstoo&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 #
 
-### 📊 How to reach me?
+### 📊 Reach me here:
 
-[website]: Coming soon !
-[email]: saidi.rostom26@gmail.com
-[LinkedIn]: https://www.linkedin.com/in/saidi-mohamed-rostom-21b3b525a/
+<p>    
+    [website]: Coming soon !
+</p>
 
-<div align="center">
-    <h3>Connect with me:</h3>
-    <p>
-        <a href="https://twitter.com/sifodz18" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sifodz18" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/salmi-sifeddine-553607251/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmi-sifeddine-553607251/" height="30" width="40" /></a>
-        <a href="https://instagram.com/sifo._.dz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sifo._.dz" height="30" width="40" /></a>
-    </p>
-</div>
+<p>
+    [LinkedIn]: <a href="https://www.linkedin.com/in/saidi-mohamed-rostom-21b3b525a/" target="_blank">arixstoo</a>
+</p>
+
+<p>
+    [E-mail]: saidi.rostom26@gmail.com
+</p>
+
+<p>
+    [Discord]: arixstoo
+</p>
