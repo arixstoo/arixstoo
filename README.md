@@ -57,19 +57,11 @@ I'm arixstoo, 3rd year computer science student at USTHB (University of Sciences
 #
 
 ### 📊 Reach me here:
-
-<p>    
-    [website]: Coming soon !
-</p>
-
-<p>
-    [LinkedIn]: <a href="https://www.linkedin.com/in/saidi-mohamed-rostom-21b3b525a/" target="_blank">arixstoo</a>
-</p>
-
-<p>
-    [E-mail]: saidi.rostom26@gmail.com
-</p>
-
-<p>
-    [Discord]: arixstoo
-</p>
+  
+[website]: Coming soon !
+<br />
+[LinkedIn]: <a href="https://www.linkedin.com/in/saidi-mohamed-rostom-21b3b525a/" target="_blank">arixstoo</a>
+<br />
+[E-mail]: saidi.rostom26@gmail.com
+<br />
+[Discord]: arixstoo
