@@ -27,11 +27,8 @@ I'm a Cybersecurity & Network Security engineering student in Algeria, currently
 ### 🧰 Tools & Technologies
  
 - **Security:** Wazuh · Sigma · MITRE ATT&CK · Nmap · Wireshark · Burp Suite
-<br>
 - **Languages:** Python · JavaScript · Java · C · Bash
-<br>
 - **Systems:** Linux · Docker · Git · Networking (TCP/IP, VLAN, Firewalls)
-<br>
 - **Dev:** Node.js · React · MongoDB · SQL
 
 ---
