@@ -32,15 +32,15 @@ I'm a Cybersecurity & Network Security engineering student in Algeria, currently
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=arixstoo&show_icons=true&theme=dark)" alt="GitHub Stats" />
-  <img src="[https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)" alt="GitHub Streak" />
-   <img src="[[https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark](https://github-readme-activity-graph.vercel.app/graph?username=arixstoo&theme=tokyo-night))" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arixstoo&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=arixstoo&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arixstoo&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 
 <div align="center">
 ![arixstoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arixstoo&show_icons=true&theme=dark) 
-![arixstoo's GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+![arixstoo's GitHub Streak](https://streak-stats.demolab.com?user=arixstoo&theme=dark)
 ![arixstoo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arixstoo&theme=tokyo-night)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arixstoo&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
