@@ -21,14 +21,21 @@ I'm a Cybersecurity & Network Security engineering student in Algeria, currently
 - Blue Team fundamentals & MITRE ATT&CK
 - CTF & practical offensive security (to defend better)
 - Building products that solve real problems for the DZ market
- 
+
+---
+
 ### 🧰 Tools & Technologies
  
 **Security:** Wazuh · Sigma · MITRE ATT&CK · Nmap · Wireshark · Burp Suite
+<br>
 **Languages:** Python · JavaScript · Java · C · Bash
+<br>
 **Systems:** Linux · Docker · Git · Networking (TCP/IP, VLAN, Firewalls)
+<br>
 **Dev:** Node.js · React · MongoDB · SQL
- 
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -37,14 +44,8 @@ I'm a Cybersecurity & Network Security engineering student in Algeria, currently
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arixstoo&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
+---
 
-<div align="center">
-![arixstoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arixstoo&show_icons=true&theme=dark) 
-![arixstoo's GitHub Streak](https://streak-stats.demolab.com?user=arixstoo&theme=dark)
-![arixstoo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arixstoo&theme=tokyo-night)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arixstoo&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
- 
 ### 📬 Reach me
  
 💼 LinkedIn: linkedin.com/in/saidi-mohamed-rostom
