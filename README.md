@@ -1,69 +1,81 @@
+# Hi there 👋 it's arixstoo !
+ 
+### Cybersecurity Engineering Student @ USTHB | SOC & Blue Team | CTF Player
+
+<p float="left" >
+  <img alt="Your very best cyber grandma" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>
+</p>
+ 
+I'm a Cybersecurity & Network Security engineering student in Algeria, currently focused on SOC operations, detection engineering, and Blue Team practice.
+ 
+🔵 Recently deployed a Wazuh SIEM in production for an international insurance company — detection rules, MITRE ATT&CK mapping, SOC dashboards, attack simulation.
+ 
+🟠 In parallel, I build B2B products for the Algerian market. Check out [Linkiw](https://linkiw.app/en) — a B2B prospecting SaaS platform I founded.
+ 
+🟢 CTF player (TryHackMe / HackTheBox) — writeups in my pinned repos.
+ 
+---
+ 
+### 🔍 What I'm focused on
+- SOC Operations & Detection Engineering (SIEM, Wazuh, Sigma)
+- Blue Team fundamentals & MITRE ATT&CK
+- CTF & practical offensive security (to defend better)
+- Building products that solve real problems for the DZ market
+
+---
+
+### 🧰 Tools & Technologies
+ 
+- **Security:** Wazuh · Sigma · MITRE ATT&CK · Nmap · Wireshark · Burp Suite
+- **Languages:** Python · JavaScript · Java · C · Bash
+- **Systems:** Linux · Docker · Git · Networking (TCP/IP, VLAN, Firewalls)
+- **Dev:** Node.js · React · MongoDB · SQL
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arixstoo&show_icons=true&theme=dark" alt="GitHub Stats" />
+ <br/>
+  <img src="https://streak-stats.demolab.com?user=arixstoo&theme=dark" alt="GitHub Streak" />
+ <br/> 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=arixstoo&theme=tokyo-night" alt="Activity Graph" />
+ <br/>
+</p>
+
+---
+
+### 📬 Reach me
+ 
+💼 LinkedIn: [SAIDI Mohamed Rostom](https://www.linkedin.com/in/saidi-mohamed-rostom/)
+<br/>
+📧 Email: saidi.rostom26@gmail.com
+<br/>
+🌐 Portfolio: [COMING SOON]
+<br/>
+
+
+
+
 
 
 <!--
-**arixstoo/arixstoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋 it's arixstoo !
-
-**'Graphic and UI/UX Designer, Beginner MERN Full Stack Developer'**
-
-I'm arixstoo, 3rd year computer science student at USTHB (University of Sciences and Technologies Houari Boumediene), Graphic and UI/UX designer. A beginner MERN full stack developer, I am continuously expanding my skills and knowledge in both front-end and back-end technologies. My passion for technology matches my enthusiasm for business, management, and marketing, where I aim to blend technical expertise with strategic thinking. Additionally, I am interested in artificial intelligence and its applications across various industries.
-
-##
-
-### 🧰 Languages and Tools
+## Stop stalking, start talking!
+        ## Recent activity
+        <!--RECENT_ACTIVITY:start
+        1. 💬 Commented on [#19](https://github.com/bloedboemmel/ratio-launcher/issues/19#issuecomment-5338850046) in [bloedboemmel/ratio-launcher](https://github.com/bloedboemmel/ratio-launcher)
+        2. 💪 Opened PR [#23](undefined) in [bloedboemmel/ratio-launcher](https://github.com/bloedboemmel/ratio-launcher)
+        3. 💪 Opened PR [#22](undefined) in [bloedboemmel/ratio-launcher](https://github.com/bloedboemmel/ratio-launcher)
+        4. 👍 Approved [#6](https://github.com/bloedboemmel/hass-lovelace-kindle-screensaver/pull/6#pullrequestreview-4883762410) in [bloedboemmel/hass-lovelace-kindle-screensaver](https://github.com/bloedboemmel/hass-lovelace-kindle-screensaver)
+        5. 👍 Approved [#18](https://github.com/bloedboemmel/ratio-launcher/pull/18#pullrequestreview-4781320316) in [bloedboemmel/ratio-launcher](https://github.com/bloedboemmel/ratio-launcher)
+        <!--RECENT_ACTIVITY:end
         
+        <!--RECENT_ACTIVITY:last_update
+        Last Updated: Tuesday, August 25th, 2026, 1:15:29 AM
+        <!--RECENT_ACTIVITY:last_update_end
+-->
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<br />
-<br />
-
-#
-
-### 📊 Stats
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-<div align="center">
-    
-![arixstoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arixstoo&show_icons=true&theme=transparent) 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arixstoo&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
-#
-
-### 📊 Reach me here:
-  
-[website]: Coming soon !
-<br />
-[LinkedIn]: <a href="https://www.linkedin.com/in/saidi-mohamed-rostom-21b3b525a/" target="_blank">arixstoo</a>
-<br />
-[E-mail]: saidi.rostom26@gmail.com
-<br />
-[Behance]: <a href="https://www.behance.net/saidimohamed6" target="_blank">arixstoo</a>
-<br />
-[Discord]: arixstoo
+<!--
+FOR BLOGS LATER : https://github.com/gautamkrishnar/gautamkrishnar
+-->
