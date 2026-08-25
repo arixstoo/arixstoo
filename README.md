@@ -40,19 +40,22 @@ I'm a Cybersecurity & Network Security engineering student in Algeria, currently
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arixstoo&show_icons=true&theme=dark" alt="GitHub Stats" />
+ <br/>
   <img src="https://streak-stats.demolab.com?user=arixstoo&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arixstoo&theme=tokyo-night" alt="Activity Graph" />
+ <br/> 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=arixstoo&theme=tokyo-night" alt="Activity Graph" />
+ <br/>
 </p>
 
 ---
 
 ### 📬 Reach me
  
-💼 LinkedIn: linkedin.com/in/saidi-mohamed-rostom
+💼 LinkedIn: [SAIDI Mohamed Rostom](https://www.linkedin.com/in/saidi-mohamed-rostom/)
 <br/>
 📧 Email: saidi.rostom26@gmail.com
 <br/>
-🌐 Portfolio: [en construction — lien dès mois 6]
+🌐 Portfolio: [COMING SOON]
 <br/>
 
 
