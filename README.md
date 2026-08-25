@@ -26,13 +26,13 @@ I'm a Cybersecurity & Network Security engineering student in Algeria, currently
 
 ### 🧰 Tools & Technologies
  
-**Security:** Wazuh · Sigma · MITRE ATT&CK · Nmap · Wireshark · Burp Suite
+- **Security:** Wazuh · Sigma · MITRE ATT&CK · Nmap · Wireshark · Burp Suite
 <br>
-**Languages:** Python · JavaScript · Java · C · Bash
+- **Languages:** Python · JavaScript · Java · C · Bash
 <br>
-**Systems:** Linux · Docker · Git · Networking (TCP/IP, VLAN, Firewalls)
+- **Systems:** Linux · Docker · Git · Networking (TCP/IP, VLAN, Firewalls)
 <br>
-**Dev:** Node.js · React · MongoDB · SQL
+- **Dev:** Node.js · React · MongoDB · SQL
 
 ---
 
@@ -49,9 +49,11 @@ I'm a Cybersecurity & Network Security engineering student in Algeria, currently
 ### 📬 Reach me
  
 💼 LinkedIn: linkedin.com/in/saidi-mohamed-rostom
+<br/>
 📧 Email: saidi.rostom26@gmail.com
+<br/>
 🌐 Portfolio: [en construction — lien dès mois 6]
-
+<br/>
 
 
 
